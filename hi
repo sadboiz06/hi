@@ -1,0 +1,2422 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>chuctop1.com HỆ THỐNG DỊCH VỤ MẠNG XÃ HỘI, SOCIAL MEDIA MARKETING 2024 | chuctop1.com</title>
+
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <meta name="author" content="">
+    <meta name="robots" content="index, follow">
+
+    <!-- [Open Graph] -->
+    <meta property="og:title" content="">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:url" content="https://chuctop1.com">
+    <meta property="og:site_name" content="">
+    <meta property="og:type" content="website">
+
+    
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="">
+    <meta name="twitter:title" content="">
+    <meta name="twitter:description" content="">
+    <meta name="twitter:image" content="">
+    <meta name="twitter:image:alt" content="">
+    <meta name="twitter:creator" content="">
+    <meta name="twitter:url" content="https://chuctop1.com">
+    <meta name="twitter:domain" content="https://chuctop1.com">
+    <meta name="twitter:label1" content="Written by Lâm Tilo">
+    <meta name="twitter:data1" content="">
+
+    <link rel="icon" href="LÊ DÔN CHUC" type="image/x-icon"> <!-- [Font] Family -->
+    <link rel="shortcut icon" href="LÊ DÔN CHUC" type="image/x-icon">
+
+    <link href="/landing/landing/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/landing/landing/vendor/icofont/icofont.min.css" rel="stylesheet">
+    <link href="/landing/landing/vendor/slick/slick.min.css" rel="stylesheet">
+    <link href="/landing/landing/vendor/slick/slick-theme.min.css" rel="stylesheet">
+    <link href="/landing/landing/css/style.css" rel="stylesheet">
+    <link href="/landing/landing/vendor/font/stylesheet.css" rel="stylesheet">
+    <link href="/landing/landing/vendor/animation/animate.min.css" rel="stylesheet">
+    <style>
+        #chat-wrapper {
+            position: fixed;
+            right: 20px;
+            bottom: 20px;
+            z-index: 9999;
+            display: flex;
+            flex-direction: column;
+            align-items: flex-end;
+        }
+
+        #telegram-chat,
+        #zalo-chat {
+            margin-bottom: 10px;
+            width: 60px;
+            height: 60px;
+            transition: transform 0.3s ease-in-out;
+            border-radius: 50%;
+            background-color: #E41246;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+
+        #telegram-chat:hover,
+        #zalo-chat:hover {
+            transform: scale(1.1);
+        }
+
+        #telegram-chat img,
+        #zalo-chat img {
+            width: 100%;
+            height: 100%;
+        }
+    </style>
+
+
+    <style>
+        #top-menu {
+            position: fixed;
+            right: 0;
+            top: 550px;
+            z-index: 99;
+            width: 50px;
+        }
+
+        #top-menu li {
+            display: flex;
+            justify-content: flex-end;
+            list-style: none;
+            margin-bottom: 5px;
+        }
+
+        #top-menu a:hover {
+            background: #E2A9F3;
+            margin-right: 0;
+            color: #fff;
+            width: 220px !important;
+        }
+
+        #top-menu a:hover span {
+            display: block !important;
+            white-space: unset !important;
+            max-width: 135px !important;
+        }
+
+        #top-menu li a.active {
+            background: #E2A9F3 !important;
+            margin-right: 0;
+            color: #fff;
+            width: 200px;
+        }
+
+        #top-menu li a.active span {
+            width: 160px;
+            color: #fff !important;
+            display: block;
+        }
+
+        #top-menu li a {
+            background: #f5f6fa;
+            border-radius: 10px 0 0 10px;
+            box-shadow: 0 0 5px 0 rgb(48 56 70 / 20%);
+            display: inline-flex;
+            align-items: center;
+            color: #000;
+            font-size: 13px;
+            width: 195px;
+            margin-right: -3px;
+            cursor: pointer;
+            opacity: 0.9;
+        }
+
+        #top-menu i {
+            background-color: rgba(255, 255, 255, 0.6);
+            border-radius: 50%;
+            width: 26px;
+            height: 26px;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            margin: 8px;
+            padding-left: 3px;
+            padding-bottom: 1px;
+        }
+
+        #top-menu i img {
+            border-radius: 50%;
+            height: auto;
+            width: 22px;
+        }
+
+        #top-menu img {
+            max-width: 100%;
+            vertical-align: middle;
+            border-style: none;
+        }
+
+        body:not(.scrolling) #top-menu li a:not(.active) span {
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            max-width: 80px;
+        }
+
+        #top-menu span {
+            font-size: 14px;
+            font-weight: 500;
+            padding: 6px 6px 6px 0;
+            width: 135px;
+            display: none;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="body-color2">
+        <nav class="navbar navbar-expand-lg navbar-dark osahan-nav">
+            <div class="container">
+                <a class="navbar-brand text-dark font-weight-bold" href="https://chuctop1.com/home">
+                    <img class="logo" src="https://i.imgur.com/xRfiBwt.gif" alt="logo">
+                </a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive"
+                    aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarResponsive">
+                    <ul class="navbar-nav ml-auto">
+                        <li class="nav-item mx-2">
+                            <a class="nav-link" href="https://chuctop1.com/home">Trang Chủ</a>
+                        </li>
+                        <li class="nav-item mx-2">
+                            <a class="nav-link" href="https://chuctop1.com/auth/login">Dịch Vụ</a>
+                        </li>
+                    </ul>
+                    <ul class="navbar-nav ml-auto login-btn">
+                        <li class="nav-item pm-2">
+                            <a class="nav-link" href="https://chuctop1.com/auth/register">Đăng Ký</a>
+                        </li>
+                        <li class="nav-item active ml-1">
+                            <a class="nav-link" href="https://chuctop1.com/auth/login">Đăng Nhập</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <header class="pt-5">
+            <div class="container h-100">
+                <div class="row h-100">
+                    <div class="col-md-8 mx-auto text-center header-title">
+                        <div class="slideanim">
+                            <h1 class="font-weight-bold mb-4">CHUCTOP1.COM HỆ THỐNG DỊCH VỤ MẠNG XÃ HỘI, SOCIAL MEDIA
+                                MARKETING 2024</h1>
+                            <p class="h5 text-dark">Nền Tảng Tăng Tương Tác Uy Tín Và Tin Cậy Nhất Cho Các Dịch Vụ
+                                Truyền Thông Mạng Xã Hội.</p>
+                            <div class="button py-5">
+                                <span class="px-2">
+                                    <a href="https://chuctop1.com/auth/register"
+                                        class="btn btn-primary btn-lg text-decoration-none">Đăng Ký</a>
+                                </span>
+                                <span class="px-2">
+                                    <a href="https://chuctop1.com/auth/login" class="btn btn-light btn-lg">Đăng Nhập</a>
+                                </span>
+                            </div>
+                        </div>
+                        <img src="/landing/landing/img/2681613.png" class="img-fluid header-img slideanim">
+                    </div>
+                </div>
+            </div>
+        </header>
+        undefined
+    </div>undefined<div class="container-body mt-n5">
+        <div class="container">
+            <section class="py-5 border-bottom slideanim">
+                <div class="row d-flex align-items-center mb-4 mt-lg-5">
+                    <div class="col-1">
+                        <hr class="text-muted">
+                    </div>
+                    <div class="col-3">
+                        <p class="text-muted m-0">
+                            <em>Đặc Trưng</em>
+                        </p>
+                    </div>
+                </div>
+                <div class="row d-flex align-items-center mb-5">
+                    <div class="col-md-6 pr-lg-5">
+                        <h1>Giải pháp của chúng tôi<br>dành cho bạn</h1>
+                    </div>
+                    <div class="col-md-6 pl-lg-5">
+                        <p class="m-0">chuctop1.com là việc sử dụng các nền tảng truyền thông xã hội như Instagram,
+                            Facebook, Youtube, TikTok, Shopee và nhiều nền tảng khác để quảng bá bản thân hoặc công ty
+                            của bạn.</p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6 d-flex align-items-center mb-4">
+                        <i class="icofont-pie-chart features-icofont-skin rounded-pill mr-4"></i>
+                        <span>
+                            <h6 class="mb-0 font-weight-bold text-dark">Phân tích dữ liệu</h6>
+                            <p class="mb-2">Với 10 năm hoạt động trong lĩnh vực Digital Marketing, chúng tôi đã thiết
+                                lập hệ thống kinh doanh cho rất nhiều khách hàng với rất nhiều sản phẩm.</p>
+                            <p class="mb-0 learn-more">
+                                <a href="https://chuctop1.com/auth/login" class="text-decoration-none">Tìm hiểu thêm<i
+                                        class="icofont-rounded-right"></i>
+                                </a>
+                            </p>
+                        </span>
+                    </div>
+                    <div class="col-md-6 d-flex align-items-center mb-4">
+                        <i class="icofont-safety features-icofont-skin rounded-pill mr-4"></i>
+                        <span href="#" class="text-decoration-none">
+                            <h6 class="mb-0 font-weight-bold text-dark">Quản lý bảo mật</h6>
+                            <p class="mb-2">Chúng tôi cam kết sẽ bảo mật thông tin người dùng 1 cách tốt nhất. Không
+                                để thất thoát dữ liệu thông tin cá nhân.</p>
+                            <p class="mb-0 learn-more">
+                                <a href="https://chuctop1.com/auth/login" class="text-decoration-none">Tìm hiểu thêm<i
+                                        class="icofont-rounded-right"></i>
+                                </a>
+                            </p>
+                        </span>
+                    </div>
+                </div>
+                <div class="row mt-lg-3">
+                    <div class="col-md-6 d-flex align-items-center mb-4">
+                        <i class="icofont-bars features-icofont-blue rounded-pill mr-4"></i>
+                        <span href="#" class="text-decoration-none">
+                            <h6 class="mb-0 font-weight-bold text-dark">Gia tăng lợi nhuận</h6>
+                            <p class="mb-2">Với tôn chỉ hoạt động của chúng tôi “Tạo ra lợi nhuận cho khách hàng” Cho
+                                nên lợi nhuận của khách hàng chính là sự sống còn của chúng tôi. </p>
+                            <p class="mb-0 learn-more">
+                                <a href="https://chuctop1.com/auth/login" class="text-decoration-none">Tìm hiểu thêm
+                                    <i class="icofont-rounded-right"></i>
+                                </a>
+                            </p>
+                        </span>
+                    </div>
+                    <div class="col-md-6 d-flex align-items-center mb-4">
+                        <i class="icofont-hand-up features-icofont-blue rounded-pill mr-4"></i>
+                        <span href="#" class="text-decoration-none">
+                            <h6 class="mb-0 font-weight-bold text-dark">Quản lý và hỗ trợ</h6>
+                            <p class="mb-2">Chúng tôi sẽ luôn cùng đồng hành với sự phát triển của bạn cho đến khi
+                                bạn không còn cần chúng tôi nữa. </p>
+                            <p class="mb-0 learn-more">
+                                <a href="https://chuctop1.com/auth/login" class="text-decoration-none">Tìm hiểu thêm<i
+                                        class="icofont-rounded-right"></i>
+                                </a>
+                            </p>
+                        </span>
+                    </div>
+                </div>
+            </section>
+
+
+            <div class="row collaborate py-5 d-flex align-items-center slideanim">
+                <div class="col-md-6 pr-lg-5">
+                    <img src="/landing/image/avzdsWC.png" class="img-fluid">
+                </div>
+                <div class="col-md-6">
+                    <div class="row d-flex align-items-center mb-4">
+                        <div class="col-2">
+                            <hr class="text-muted">
+                        </div>
+                        <div class="col-3">
+                            <p class="text-muted m-0">
+                                <em>Danh mục</em>
+                            </p>
+                        </div>
+                    </div>
+                    <h1>Nền Tảng Tăng Tương Tác Uy Tín Và Tin Cậy Nhất Cho Các Dịch Vụ Truyền Thông Mạng Xã Hội.</h1>
+                    <p class="mt-3">Những Gì Bạn Cần Tăng - Chúng Tôi Có Cung Cấp
+                        Phát triển mọi nền tảng mạng xã hội của bạn với dịch vụ của chúng tôi. </p>
+                    <div class="row pt-4">
+                        <div class="col-md-6">
+                            <p>
+                                <i class="icofont-check-circled text-success mr-4"></i>
+                                <span class="font-weight-bold">Dịch vụ Facebook</span>
+                            </p>
+                            <p>
+                                <i class="icofont-check-circled text-success mr-4"></i>
+                                <span class="font-weight-bold">Dịch vụ TikTok</span>
+                            </p>
+                            <p>
+                                <i class="icofont-check-circled text-success mr-4"></i>
+                                <span class="font-weight-bold">Dịch vụ Youtube</span>
+                            </p>
+                        </div>
+                        <div class="col-md-6">
+                            <p>
+                                <i class="icofont-check-circled text-success mr-4"></i>
+                                <span class="font-weight-bold">Dịch vụ Instagram</span>
+                            </p>
+                            <p>
+                                <i class="icofont-check-circled text-success mr-4"></i>
+                                <span class="font-weight-bold">Dịch vụ Twitter </span>
+                            </p>
+                            <p>
+                                <i class="icofont-check-circled text-success mr-4"></i>
+                                <span class="font-weight-bold">Nhiều dịch vụ khác</span>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            </section>
+        </div>
+    </div>
+    <footer class="bg-light slideanim py-5">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4">
+                    <a class="navbar-brand text-dark font-weight-bold" href="https://chuctop1.com">
+                        <img class="footer-logo" src="https://i.imgur.com/xRfiBwt.gif" alt="logo">
+                    </a>
+                    <div class="social-icons mt-lg-5">
+                        <a href="https://chuctop1.com/home#" class="text-white text-decoration-none">
+                            <i class="icofont-twitter p-1 rounded-pill mr-2"></i>
+                        </a>
+                        <a href="https://chuctop1.com/home#" class="text-white text-decoration-none">
+                            <i class="icofont-facebook p-1 rounded-pill mr-2"></i>
+                        </a>
+                        <a href="https://chuctop1.com/home#" class="text-white text-decoration-none">
+                            <i class="icofont-linkedin p-1 rounded-pill mr-2"></i>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-md-2">
+                    <p class="font-weight-bold">Sản phẩm</p>
+                    <ul class="list-unstyled m-0">
+                        <li>
+                            <a href="https://chuctop1.com/home#" class="text-decoration-none text-dark">Trang chủ</a>
+                        </li>
+                        <li>
+                            <a href="https://chuctop1.com/home#" class="text-decoration-none text-dark">Đặc trưng</a>
+                        </li>
+                        <li>
+                            <a href="https://chuctop1.com/home#" class="text-decoration-none text-dark">Tài liệu</a>
+                        </li>
+                        <li>
+                            <a href="https://chuctop1.com/home#" class="text-decoration-none text-dark">Giới thiệu</a>
+                        </li>
+                        <li>
+                            <a href="https://chuctop1.com/home#" class="text-decoration-none text-dark">Định giá
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-md-2">
+                    <p class="font-weight-bold">Danh sách</p>
+                    <ul class="list-unstyled m-0">
+                        <li>
+                            <a href="https://chuctop1.com/home#" class="text-decoration-none text-dark">Tài liệu</a>
+                        </li>
+                        <li>
+                            <a href="https://chuctop1.com/home#" class="text-decoration-none text-dark">Thiết kế</a>
+                        </li>
+                        <li>
+                            <a href="https://chuctop1.com/home#" class="text-decoration-none text-dark">Chủ đề</a>
+                        </li>
+                        <li>
+                            <a href="https://chuctop1.com/home#" class="text-decoration-none text-dark">Minh họa</a>
+                        </li>
+                        <li>
+                            <a href="https://chuctop1.com/home#" class="text-decoration-none text-dark">UI kit</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-md-2">
+                    <p class="font-weight-bold">Công TY</p>
+                    <ul class="list-unstyled m-0">
+                        <li>
+                            <a href="https://chuctop1.com/home#" class="text-decoration-none text-dark">Liên hệ</a>
+                        </li>
+                        <li>
+                            <a href="https://chuctop1.com/home#" class="text-decoration-none text-dark">Điều kiện</a>
+                        </li>
+                        <li>
+                            <a href="https://chuctop1.com/home#" class="text-decoration-none text-dark">Chính sách bảo
+                                mật</a>
+                        </li>
+
+                    </ul>
+                </div>
+                <div class="col-md-2">
+                    <p class="font-weight-bold">Nhiều hơn</p>
+                    <ul class="list-unstyled m-0">
+                        <li>
+                            <a href="https://chuctop1.com/home#" class="text-decoration-none text-dark">Tài liệu</a>
+                        </li>
+                        <li>
+                            <a href="https://chuctop1.com/home#" class="text-decoration-none text-dark">Giấy phép</a>
+                        </li>
+                        <li>
+                            <a href="https://chuctop1.com/home#" class="text-decoration-none text-dark">Hỗ trợ</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <div class="py-4 osahan-copyright">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <p class="text-dark m-0">© 2024 CHUCTOP1.COM. Quản lý
+                        vận hành bởi : .</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="/landing/landing/vendor/jquery/jquery.min.js"></script>
+    <script src="/landing/landing/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="/landing/landing/vendor/slick/slick.min.js"></script>
+    <script src="/landing/landing/vendor/animations/float-panel.js"></script>
+    <script src="/landing/landing/js/osahan.js"></script>
+</body>
+
+</html>
+
+ 
+<!DOCTYPE html>
+<html data-theme="" lang="vi">
+<!-- [Head] start -->
+<head>
+    <title>Tăng Theo Dõi | Dịch Vụ Tiktok</title>
+    <!-- [Meta] -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimal-ui">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="logo" content="https://i.imgur.com/xRfiBwt.gif">
+    <meta name="csrf-token" content="eskAJTKRdxgrv6dyPH8cTI3oFiBRCSRzgzzddiwW">
+        <meta name="access-token" content="eyJpdiI6Ikx3QjM5T0ZOZXhsSmRwZ3dmM05HMGc9PSIsInZhbHVlIjoiR2dIZUFZYjgxRFlRV1lKcXh2Q3ovWFJUdlo5Q29BNVhiMHR2eUVpK055bFA5R0RhWXNvS08zcWdQNTkrYjdMVTFyNVQ5MlJoeEExRnIyU3lxZTMvSjZ0ZDliZUZxWUpneXhZWFBWeG5yWGc9IiwibWFjIjoiOTMxYzFlMzllNDJhZGFkNTQ3ZmVlMzIzY2QwOGVhYmE5YWIwNTZlYWY0NmI2YjVmNTZlYjM0NWRhMTIzNjE1YyIsInRhZyI6IiJ9">
+    
+    <!-- [SEO] -->
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <meta name="author" content="">
+    
+
+    <!-- [Open Graph] -->
+    <meta property="og:title" content="">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:url" content="https://chuctop1.com/service/tiktok/sub-tiktok">
+    <meta property="og:site_name" content="">
+    <meta property="og:type" content="website">
+
+    
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="">
+    <meta name="twitter:title" content="">
+    <meta name="twitter:description" content="">
+    <meta name="twitter:image" content="">
+    <meta name="twitter:image:alt" content="">
+    <meta name="twitter:creator" content="">
+    <meta name="twitter:url" content="https://chuctop1.com/service/tiktok/sub-tiktok">
+    <meta name="twitter:domain" content="https://chuctop1.com/service/tiktok/sub-tiktok">
+    <meta name="twitter:label1" content="Written by Lâm Tilo">
+    <meta name="twitter:data1" content="">
+ 
+    <!-- [Favicon] icon -->
+    <link rel="icon" href="LÊ DÔN CHUC" type="image/x-icon"> <!-- [Font] Family -->
+    <link rel="shortcut icon" href="LÊ DÔN CHUC" type="image/x-icon">
+
+    <link rel="stylesheet" href="/assets/fonts/inter/inter.css" id="main-font-link" />
+    <!-- [Tabler Icons] https://tablericons.com -->
+    <link rel="stylesheet" href="/assets/fonts/tabler-icons.min.css">
+    <!-- [Feather Icons] https://feathericons.com -->
+    <link rel="stylesheet" href="/assets/fonts/feather.css">
+    <!-- [Font Awesome Icons] https://fontawesome.com/icons -->
+    <link rel="stylesheet" href="/assets/fonts/fontawesome.css">
+    <!-- [Material Icons] https://fonts.google.com/icons -->
+    <link rel="stylesheet" href="/assets/fonts/material.css">
+    <!-- [Template CSS Files] -->
+    <link rel="stylesheet" href="/assets/css/style.css" id="main-style-link">
+    <link rel="stylesheet" href="/assets/css/style-preset.css">
+
+    <style>
+        .reactions input[name="reaction"]:checked+img {
+            box-shadow: 0 0 12px #078aff;
+            position: relative;
+            top: -3px;
+            transform: scale(1.2);
+            transition: all 0.3s ease-in-out;
+        }
+    </style>
+
+    10000000
+</head>
+<!-- [Head] end -->
+<!-- [Body] Start -->
+
+<body data-pc-preset="preset-2" data-pc-sidebar-caption="true" data-pc-direction="ltr" data-pc-theme_contrast=""
+    data-pc-theme="">
+    1000000
+    <!-- [ Pre-loader ] start -->
+    <div class="loader-bg">
+        <div class="loader-track">
+            <div class="loader-fill"></div>
+        </div>
+    </div>
+    <!-- [ Pre-loader ] End -->
+    <!-- [ Sidebar Menu ] start -->
+    <nav class="pc-sidebar">
+        <div class="navbar-wrapper">
+            <div class="m-header">
+                <a href="https://chuctop1.com/home" class="b-brand text-primary">
+                    <!-- ========   Change your logo from here   ============ -->
+                    <img src="https://i.imgur.com/xRfiBwt.gif" class="img-fluid logo-lg" alt="logo">
+                </a>
+            </div>
+            <div class="navbar-content mb-3">
+                <ul class="pc-navbar">
+
+        <li class="pc-item pc-caption">
+        <label>Main</label>
+    </li>
+    <li class="pc-item pc-hasmenu">
+        <a href="javascript:;" class="pc-link">
+            <span class="pc-micon">
+                <img src="https://chuctop1.com/assets/pack-lamtilo/images/dashboard.png" class="wid-35" alt="">
+            </span>
+            <span class="pc-mtext">Quản lý chung</span>
+            <span class="pc-arrow"><i data-feather="chevron-right"></i></span>
+        </a>
+        <ul class="pc-submenu" style="list-style-type: none !important;">
+            <li class="pc-item">
+                <a href="https://chuctop1.com/home" class="pc-link">
+                    <span class="pc-micon">
+                        <img src="https://chuctop1.com/assets/pack-lamtilo/images/home.png" class="wid-35" alt="">
+                    </span>
+                    <span class="pc-mtext">Trang chủ</span>
+                </a>
+            </li>
+            <li class="pc-item">
+                <a href="https://chuctop1.com/account/profile" class="pc-link">
+                    <span class="pc-micon">
+                        <img src="https://chuctop1.com/assets/pack-lamtilo/images/profile.png" class="wid-35" alt="">
+                    </span>
+                    <span class="pc-mtext">Thông tin cá nhân</span>
+                </a>
+            </li>
+            <li class="pc-item">
+                <a href="https://chuctop1.com/account/recharge" class="pc-link">
+                    <span class="pc-micon">
+                        <img src="https://chuctop1.com/assets/pack-lamtilo/images/payment-method.png" class="wid-35"
+                            alt="">
+                    </span>
+                    <span class="pc-mtext">Nạp tiền tài khoản</span>
+                </a>
+            </li>
+            <li class="pc-item">
+                <a href="https://chuctop1.com/account/transactions" class="pc-link">
+                    <span class="pc-micon">
+                        <img src="https://chuctop1.com/assets/pack-lamtilo/images/transactions.png" class="wid-35" alt="">
+                    </span>
+                    <span class="pc-mtext">Lịch sử giao dịch</span>
+                </a>
+            </li>
+            <li class="pc-item">
+                <a href="https://chuctop1.com/account/progress" class="pc-link">
+                    <span class="pc-micon">
+                        <img src="https://chuctop1.com/assets/pack-lamtilo/images/bills.png" class="wid-35" alt="">
+                    </span>
+                    <span class="pc-mtext">Tất cả tiến trình</span>
+                </a>
+            </li>
+            <li class="pc-item">
+                <a href="https://chuctop1.com/account/services" class="pc-link">
+                    <span class="pc-micon">
+                        <img src="https://chuctop1.com/assets/pack-lamtilo/images/success.png" class="wid-35" alt="">
+                    </span>
+                    <span class="pc-mtext">Dịch vụ & cấp bậc</span>
+                </a>
+            </li>
+            <li class="pc-item">
+                <a href="https://chuctop1.com/ticket" class="pc-link">
+                    <span class="pc-micon">
+                        <img src="https://chuctop1.com/assets/pack-lamtilo/images/ticket.png" class="wid-35" alt="">
+                    </span>
+                    <span class="pc-mtext">Hỗ Trợ Ticket</span>
+                </a>
+            </li>
+            <li class="pc-item">
+                <a href="https://chuctop1.com/create/website" class="pc-link">
+                    <span class="pc-micon">
+                        <img src="https://chuctop1.com/assets/pack-lamtilo/images/www.png" class="wid-35" alt="">
+                    </span>
+                    <span class="pc-mtext">Tạo Website</span>
+                </a>
+            </li>
+            <li class="pc-item">
+                <a href="https://chuctop1.com/rule" class="pc-link">
+                    <span class="pc-micon">
+                        <img src="https://chuctop1.com/assets/pack-lamtilo/lamtilo/auction.png" class="wid-35" alt="">
+                    </span>
+                    <span class="pc-mtext">Điều khoản dịch vụ</span>
+                </a>
+            </li>
+            <li class="pc-item">
+                <a href="https://chuctop1.com/apiv2"   class="pc-link">
+                    <span class="pc-micon">
+                        <img src="https://chuctop1.com/assets/pack-lamtilo/images/suitcase.png" class="wid-35" alt="">
+                    </span>
+                    <span class="pc-mtext">API V2</span>
+                </a>
+            </li>
+            <li class="pc-item">
+                <a href="https://documenter.getpostman.com/view/26265513/2sA3JNZzZ2" target="_blank" class="pc-link">
+                    <span class="pc-micon">
+                        <img src="https://chuctop1.com/assets/pack-lamtilo/images/suitcase.png" class="wid-35" alt="">
+                    </span>
+                    <span class="pc-mtext">Tài liệu kết nối</span>
+                </a>
+            </li>
+        </ul>
+    </li>
+
+
+
+
+    <li class="pc-item pc-caption">
+        <label>Services</label>
+    </li>
+            <li class="pc-item pc-hasmenu">
+            <a href="javascript:;" class="pc-link">
+                <span class="pc-micon">
+                    <img src="https://cdn.mypanel.link/4cgr8h/9rjnzbd98rt8s5we.gif" class="wid-35" alt="Dịch vụ Facebook">
+                </span>
+                <span class="pc-mtext">Dịch vụ Facebook</span>
+                <span class="pc-arrow"><i data-feather="chevron-right"></i></span>
+            </a>
+            <ul class="pc-submenu">
+                                    <li class="pc-item">
+                        <a href="https://chuctop1.com/service/facebook/reactions-facebook"
+                            class="pc-link">
+                            <span class="pc-mtext">Tăng Cảm Xúc</span>
+                        </a>
+                    </li>
+                                    <li class="pc-item">
+                        <a href="https://chuctop1.com/service/facebook/like-bai-viet"
+                            class="pc-link">
+                            <span class="pc-mtext">Tăng Like Bài Viết</span>
+                        </a>
+                    </li>
+                                    <li class="pc-item">
+                        <a href="https://chuctop1.com/service/facebook/sub-facebook"
+                            class="pc-link">
+                            <span class="pc-mtext">Tăng Theo Dõi</span>
+                        </a>
+                    </li>
+                                    <li class="pc-item">
+                        <a href="https://chuctop1.com/service/facebook/like-sub-fanpage"
+                            class="pc-link">
+                            <span class="pc-mtext">Tăng Like Sub Fanpage</span>
+                        </a>
+                    </li>
+                                    <li class="pc-item">
+                        <a href="https://chuctop1.com/service/facebook/like-cmt-facebook"
+                            class="pc-link">
+                            <span class="pc-mtext">Tăng Like Bình Luận</span>
+                        </a>
+                    </li>
+                                    <li class="pc-item">
+                        <a href="https://chuctop1.com/service/facebook/cmt-facebook"
+                            class="pc-link">
+                            <span class="pc-mtext">Tăng Bình Luận</span>
+                        </a>
+                    </li>
+                                    <li class="pc-item">
+                        <a href="https://chuctop1.com/service/facebook/share-facebook"
+                            class="pc-link">
+                            <span class="pc-mtext">Tăng Chia Sẻ</span>
+                        </a>
+                    </li>
+                                    <li class="pc-item">
+                        <a href="https://chuctop1.com/service/facebook/mem-group"
+                            class="pc-link">
+                            <span class="pc-mtext">Tăng Member Group</span>
+                        </a>
+                    </li>
+                                    <li class="pc-item">
+                        <a href="https://chuctop1.com/service/facebook/share-live"
+                            class="pc-link">
+                            <span class="pc-mtext">Share Livestream Group</span>
+                        </a>
+                    </li>
+                                    <li class="pc-item">
+                        <a href="https://chuctop1.com/service/facebook/review-fanpage"
+                            class="pc-link">
+                            <span class="pc-mtext">Tăng Đánh Giá 5* Fanpage</span>
+                        </a>
+                    </li>
+                                    <li class="pc-item">
+                        <a href="https://chuctop1.com/service/facebook/checkin-page"
+                            class="pc-link">
+                            <span class="pc-mtext">Tăng Checkin Page</span>
+                        </a>
+                    </li>
+                                    <li class="pc-item">
+                        <a href="https://chuctop1.com/service/facebook/live-facebook"
+                            class="pc-link">
+                            <span class="pc-mtext">Tăng Mắt Livestream</span>
+                        </a>
+                    </li>
+                                    <li class="pc-item">
+                        <a href="https://chuctop1.com/service/facebook/view-story"
+                            class="pc-link">
+                            <span class="pc-mtext">Tăng View Story</span>
+                        </a>
+                    </li>
+                                    <li class="pc-item">
+                        <a href="https://chuctop1.com/service/facebook/view-video"
+                            class="pc-link">
+                            <span class="pc-mtext">Tăng View Video</span>
+                        </a>
+                    </li>
+                                    <li class="pc-item">
+                        <a href="https://chuctop1.com/service/facebook/viplike-facebook"
+                            class="pc-link">
+                            <span class="pc-mtext">Vip Like + Cảm Xúc</span>
+                        </a>
+                    </li>
+                                    <li class="pc-item">
+                        <a href="https://chuctop1.com/service/facebook/viplikev2-facebook"
+                            class="pc-link">
+                            <span class="pc-mtext">Viplike V2</span>
+                        </a>
+                    </li>
+                                    <li class="pc-item">
+                        <a href="https://chuctop1.com/service/facebook/livev2-facebook"
+                            class="pc-link">
+                            <span class="pc-mtext">Tăng Mắt Livestream V2</span>
+                        </a>
+                    </li>
+                            </ul>
+        </li>
+            <li class="pc-item pc-hasmenu">
+            <a href="javascript:;" class="pc-link">
+                <span class="pc-micon">
+                    <img src="https://cdn.mypanel.link/4cgr8h/15z7egnk0elz7gzm.gif" class="wid-35" alt="Dịch Vụ Instagram">
+                </span>
+                <span class="pc-mtext">Dịch Vụ Instagram</span>
+                <span class="pc-arrow"><i data-feather="chevron-right"></i></span>
+            </a>
+            <ul class="pc-submenu">
+                                    <li class="pc-item">
+                        <a href="https://chuctop1.com/service/instagram/like-ins"
+                            class="pc-link">
+                            <span class="pc-mtext">Tăng Like</span>
+                        </a>
+                    </li>
+                                    <li class="pc-item">
+                        <a href="https://chuctop1.com/service/instagram/sub-ins"
+                            class="pc-link">
+                            <span class="pc-mtext">Tăng Theo Dõi</span>
+                        </a>
+                    </li>
+                                    <li class="pc-item">
+                        <a href="https://chuctop1.com/service/instagram/cmt-ins"
+                            class="pc-link">
+                            <span class="pc-mtext">Tăng Bình Luận</span>
+                        </a>
+                    </li>
+                                    <li class="pc-item">
+                        <a href="https://chuctop1.com/service/instagram/view-ins"
+                            class="pc-link">
+                            <span class="pc-mtext">Tăng View</span>
+                        </a>
+                    </li>
+                                    <li class="pc-item">
+                        <a href="https://chuctop1.com/service/instagram/live-ins"
+                            class="pc-link">
+                            <span class="pc-mtext">Tăng Mắt Livestreams</span>
+                        </a>
+                    </li>
+                            </ul>
+        </li>
+            <li class="pc-item pc-hasmenu">
+            <a href="javascript:;" class="pc-link">
+                <span class="pc-micon">
+                    <img src="https://s3.ap-northeast-1.amazonaws.com/h.files/images/1720697059991_KxrNxOnTyq.png" class="wid-35" alt="Dịch Vụ Threads">
+                </span>
+                <span class="pc-mtext">Dịch Vụ Threads</span>
+                <span class="pc-arrow"><i data-feather="chevron-right"></i></span>
+            </a>
+            <ul class="pc-submenu">
+                                    <li class="pc-item">
+                        <a href="https://chuctop1.com/service/threads/like-threads"
+                            class="pc-link">
+                            <span class="pc-mtext">Tăng Like</span>
+                        </a>
+                    </li>
+                                    <li class="pc-item">
+                        <a href="https://chuctop1.com/service/threads/sub-threads"
+                            class="pc-link">
+                            <span class="pc-mtext">Tăng Theo Dõi</span>
+                        </a>
+                    </li>
+                            </ul>
+        </li>
+            <li class="pc-item pc-hasmenu">
+            <a href="javascript:;" class="pc-link">
+                <span class="pc-micon">
+                    <img src="https://cdn.mypanel.link/4cgr8h/ewzs0f9k8ic2932y.gif" class="wid-35" alt="Dịch Vụ Tiktok">
+                </span>
+                <span class="pc-mtext">Dịch Vụ Tiktok</span>
+                <span class="pc-arrow"><i data-feather="chevron-right"></i></span>
+            </a>
+            <ul class="pc-submenu">
+                                    <li class="pc-item">
+                        <a href="https://chuctop1.com/service/tiktok/like-tiktok"
+                            class="pc-link">
+                            <span class="pc-mtext">Tăng Like( Thả Tim)</span>
+                        </a>
+                    </li>
+                                    <li class="pc-item">
+                        <a href="https://chuctop1.com/service/tiktok/sub-tiktok"
+                            class="pc-link">
+                            <span class="pc-mtext">Tăng Theo Dõi</span>
+                        </a>
+                    </li>
+                                    <li class="pc-item">
+                        <a href="https://chuctop1.com/service/tiktok/view-tiktok"
+                            class="pc-link">
+                            <span class="pc-mtext">Tăng View Video</span>
+                        </a>
+                    </li>
+                                    <li class="pc-item">
+                        <a href="https://chuctop1.com/service/tiktok/cmt-tiktok"
+                            class="pc-link">
+                            <span class="pc-mtext">Tăng Bình Luận</span>
+                        </a>
+                    </li>
+                                    <li class="pc-item">
+                        <a href="https://chuctop1.com/service/tiktok/share-tiktok"
+                            class="pc-link">
+                            <span class="pc-mtext">Tăng Chia Sẻ</span>
+                        </a>
+                    </li>
+                                    <li class="pc-item">
+                        <a href="https://chuctop1.com/service/tiktok/save-tiktok"
+                            class="pc-link">
+                            <span class="pc-mtext">Tăng Yêu Thích (Save)</span>
+                        </a>
+                    </li>
+                                    <li class="pc-item">
+                        <a href="https://chuctop1.com/service/tiktok/live-tiktok"
+                            class="pc-link">
+                            <span class="pc-mtext">Tăng Mắt Livestreams</span>
+                        </a>
+                    </li>
+                                    <li class="pc-item">
+                        <a href="https://chuctop1.com/service/tiktok/pk-tiktok"
+                            class="pc-link">
+                            <span class="pc-mtext">Tăng Điểm Chiến Đấu (PK)</span>
+                        </a>
+                    </li>
+                                    <li class="pc-item">
+                        <a href="https://chuctop1.com/service/tiktok/oder-tiktok"
+                            class="pc-link">
+                            <span class="pc-mtext">Tiktok Shop - Mua Hàng</span>
+                        </a>
+                    </li>
+                                    <li class="pc-item">
+                        <a href="https://chuctop1.com/service/tiktok/stream-tiktok"
+                            class="pc-link">
+                            <span class="pc-mtext">Tiktok Stream - Hiển Thị Mua Hàng</span>
+                        </a>
+                    </li>
+                                    <li class="pc-item">
+                        <a href="https://chuctop1.com/service/tiktok/viplike-tiktok"
+                            class="pc-link">
+                            <span class="pc-mtext">VIP Like</span>
+                        </a>
+                    </li>
+                                    <li class="pc-item">
+                        <a href="https://chuctop1.com/service/tiktok/taikhoan-tiktok"
+                            class="pc-link">
+                            <span class="pc-mtext">Tài Khoản Tiktok</span>
+                        </a>
+                    </li>
+                                    <li class="pc-item">
+                        <a href="https://chuctop1.com/service/tiktok/livev2-tiktok"
+                            class="pc-link">
+                            <span class="pc-mtext">Tăng Mắt Livestream V2</span>
+                        </a>
+                    </li>
+                            </ul>
+        </li>
+            <li class="pc-item pc-hasmenu">
+            <a href="javascript:;" class="pc-link">
+                <span class="pc-micon">
+                    <img src="https://s3.ap-northeast-1.amazonaws.com/h.files/images/1720697174760_JsZvmfPPXq.jpeg" class="wid-35" alt="Dịch Vụ Shopee">
+                </span>
+                <span class="pc-mtext">Dịch Vụ Shopee</span>
+                <span class="pc-arrow"><i data-feather="chevron-right"></i></span>
+            </a>
+            <ul class="pc-submenu">
+                                    <li class="pc-item">
+                        <a href="https://chuctop1.com/service/shopee/like-shopee"
+                            class="pc-link">
+                            <span class="pc-mtext">Tăng Like</span>
+                        </a>
+                    </li>
+                                    <li class="pc-item">
+                        <a href="https://chuctop1.com/service/shopee/sub-shopee"
+                            class="pc-link">
+                            <span class="pc-mtext">Tăng Theo Dõi</span>
+                        </a>
+                    </li>
+                                    <li class="pc-item">
+                        <a href="https://chuctop1.com/service/shopee/live-shopee"
+                            class="pc-link">
+                            <span class="pc-mtext">Tăng Mắt Livestreams</span>
+                        </a>
+                    </li>
+                            </ul>
+        </li>
+            <li class="pc-item pc-hasmenu">
+            <a href="javascript:;" class="pc-link">
+                <span class="pc-micon">
+                    <img src="https://i.imgur.com/JCLwqJq.gif" class="wid-35" alt="Dịch Vụ Telegram">
+                </span>
+                <span class="pc-mtext">Dịch Vụ Telegram</span>
+                <span class="pc-arrow"><i data-feather="chevron-right"></i></span>
+            </a>
+            <ul class="pc-submenu">
+                                    <li class="pc-item">
+                        <a href="https://chuctop1.com/service/telegram/mem-telegram"
+                            class="pc-link">
+                            <span class="pc-mtext">Tăng Mem &amp; Sub</span>
+                        </a>
+                    </li>
+                                    <li class="pc-item">
+                        <a href="https://chuctop1.com/service/telegram/view-telegram"
+                            class="pc-link">
+                            <span class="pc-mtext">Tăng View + Cảm Xúc</span>
+                        </a>
+                    </li>
+                            </ul>
+        </li>
+            <li class="pc-item pc-hasmenu">
+            <a href="javascript:;" class="pc-link">
+                <span class="pc-micon">
+                    <img src="https://i.imgur.com/wkxKolw.gif" class="wid-35" alt="Dịch Vụ Youtube">
+                </span>
+                <span class="pc-mtext">Dịch Vụ Youtube</span>
+                <span class="pc-arrow"><i data-feather="chevron-right"></i></span>
+            </a>
+            <ul class="pc-submenu">
+                                    <li class="pc-item">
+                        <a href="https://chuctop1.com/service/youtube/like-youtube"
+                            class="pc-link">
+                            <span class="pc-mtext">Tăng Like</span>
+                        </a>
+                    </li>
+                                    <li class="pc-item">
+                        <a href="https://chuctop1.com/service/youtube/sub-youtube"
+                            class="pc-link">
+                            <span class="pc-mtext">Tăng Subscribe</span>
+                        </a>
+                    </li>
+                                    <li class="pc-item">
+                        <a href="https://chuctop1.com/service/youtube/view-youtube"
+                            class="pc-link">
+                            <span class="pc-mtext">Tăng View</span>
+                        </a>
+                    </li>
+                                    <li class="pc-item">
+                        <a href="https://chuctop1.com/service/youtube/live-youtube"
+                            class="pc-link">
+                            <span class="pc-mtext">Tăng Mắt Livestreams</span>
+                        </a>
+                    </li>
+                                    <li class="pc-item">
+                        <a href="https://chuctop1.com/service/youtube/cmt-youtube"
+                            class="pc-link">
+                            <span class="pc-mtext">Tăng Bình Luận</span>
+                        </a>
+                    </li>
+                            </ul>
+        </li>
+            <li class="pc-item pc-hasmenu">
+            <a href="javascript:;" class="pc-link">
+                <span class="pc-micon">
+                    <img src="https://s3.ap-northeast-1.amazonaws.com/h.files/images/1720697328659_PBrKNT05oW.png" class="wid-35" alt="Dịch Vụ Google">
+                </span>
+                <span class="pc-mtext">Dịch Vụ Google</span>
+                <span class="pc-arrow"><i data-feather="chevron-right"></i></span>
+            </a>
+            <ul class="pc-submenu">
+                            </ul>
+        </li>
+            <li class="pc-item pc-hasmenu">
+            <a href="javascript:;" class="pc-link">
+                <span class="pc-micon">
+                    <img src="https://trumdata.net/public/landing/logomxh/x-twitter.gif" class="wid-35" alt="Dịch Vụ X - Twitter">
+                </span>
+                <span class="pc-mtext">Dịch Vụ X - Twitter</span>
+                <span class="pc-arrow"><i data-feather="chevron-right"></i></span>
+            </a>
+            <ul class="pc-submenu">
+                                    <li class="pc-item">
+                        <a href="https://chuctop1.com/service/twitter/like-twitter"
+                            class="pc-link">
+                            <span class="pc-mtext">Tăng Like Twitter</span>
+                        </a>
+                    </li>
+                                    <li class="pc-item">
+                        <a href="https://chuctop1.com/service/twitter/sub-twitter"
+                            class="pc-link">
+                            <span class="pc-mtext">Tăng Theo Dõi Twitter</span>
+                        </a>
+                    </li>
+                            </ul>
+        </li>
+    
+    
+
+
+</ul>
+             </div>
+        </div>
+    </nav>
+    <!-- [ Sidebar Menu ] end --> <!-- [ Header Topbar ] start -->
+    <header class="pc-header">
+        <div class="header-wrapper"> <!-- [Mobile Media Block] start -->
+            <div class="me-auto pc-mob-drp">
+                <ul class="list-unstyled">
+                    <!-- ======= Menu collapse Icon ===== -->
+                    <li class="pc-h-item pc-sidebar-collapse">
+                        <a href="javascript:;" class="pc-head-link ms-0" id="sidebar-hide">
+                            <i class="ti ti-menu-2"></i>
+                        </a>
+                    </li>
+                    <li class="pc-h-item pc-sidebar-popup">
+                        <a href="javascript:;" class="pc-head-link ms-0" id="mobile-collapse">
+                            <i class="ti ti-menu-2"></i>
+                        </a>
+                    </li>
+                    <li class="dropdown pc-h-item">
+                        <a class="pc-head-link dropdown-toggle arrow-none m-0 trig-drp-search" data-bs-toggle="dropdown"
+                            href="javascript:;" role="button" aria-haspopup="false" aria-expanded="false">
+                            <svg class="pc-icon">
+                                <use xlink:href="#custom-search-normal-1"></use>
+                            </svg>
+                        </a>
+                        <div class="dropdown-menu pc-h-dropdown drp-search">
+                            <form class="px-3 py-2">
+                                <input type="search" class="form-control border-0 shadow-none"
+                                    placeholder="Search here. . ." />
+                            </form>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+            <!-- [Mobile Media Block end] -->
+            <div class="ms-auto">
+                <ul class="list-unstyled">
+                    <li class="dropdown pc-h-item">
+                        <a class="pc-head-link dropdown-toggle arrow-none me-0" data-bs-toggle="dropdown"
+                            href="javascript:;" role="button" aria-haspopup="false" aria-expanded="false">
+                            <svg class="pc-icon">
+                                <use xlink:href="#custom-sun-1"></use>
+                            </svg>
+                        </a>
+                        <div class="dropdown-menu dropdown-menu-end pc-h-dropdown">
+                            <a href="javascript:;" class="dropdown-item" onclick="layout_change('dark')">
+                                <svg class="pc-icon">
+                                    <use xlink:href="#custom-moon"></use>
+                                </svg>
+                                <span>Giao Diện Tối</span>
+                            </a>
+                            <a href="javascript:;" class="dropdown-item" onclick="layout_change('light')">
+                                <svg class="pc-icon">
+                                    <use xlink:href="#custom-sun-1"></use>
+                                </svg>
+                                <span>Giao Diện Sáng</span>
+                            </a>
+                        </div>
+                    </li>
+                    <li class="dropdown pc-h-item">
+                        <a class="pc-head-link dropdown-toggle arrow-none me-0" data-bs-toggle="dropdown"
+                            href="javascript:;" role="button" aria-haspopup="false" aria-expanded="false">
+                            <svg class="pc-icon">
+                                <use xlink:href="#custom-notification"></use>
+                            </svg>
+                            <span class="badge bg-success pc-h-badge">3</span>
+                        </a>
+                        <div class="dropdown-menu dropdown-notification dropdown-menu-end pc-h-dropdown">
+                            <div class="dropdown-header d-flex align-items-center justify-content-between">
+                                <h5 class="m-0">Thông báo</h5>
+                                <a href="javascript:;" class="btn btn-link btn-sm">Đánh dấu đọc tất cả</a>
+                            </div>
+                            <div class="dropdown-body text-wrap header-notification-scroll position-relative"
+                                style="max-height: calc(100vh - 215px)">
+                                                            </div>
+                            <div class="text-center py-2">
+                                <a href="javascript:;" class="link-danger">Clear all Notifications</a>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="dropdown pc-h-item header-user-profile">
+                        <a class="pc-head-link dropdown-toggle arrow-none me-0" data-bs-toggle="dropdown"
+                            href="javascript:;" role="button" aria-haspopup="false" data-bs-auto-close="outside"
+                            aria-expanded="false">
+                            <img src="/assets/images/user/avatar-2.jpg" alt="user-image" class="user-avtar" />
+                        </a>
+                        <div class="dropdown-menu dropdown-user-profile dropdown-menu-end pc-h-dropdown">
+                            <div class="dropdown-header d-flex align-items-center justify-content-between">
+                                <h5 class="m-0">Thông tin</h5>
+                            </div>
+                            <div class="dropdown-body">
+                                <div class="profile-notification-scroll position-relative"
+                                    style="max-height: calc(100vh - 225px)">
+                                    <div class="d-flex mb-1">
+                                        <div class="flex-shrink-0">
+                                            <img src="/assets/images/user/avatar-2.jpg" alt="user-image"
+                                                class="user-avtar wid-35" />
+                                        </div>
+                                        <div class="flex-grow-1 ms-3">
+                                            <h6 class="mb-1">Huỳnh Tân 🖖</h6>
+                                            <span><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="6a0b0909180e1c1e050b042a0d070b030644090507">[email&#160;protected]</a></span>
+                                        </div>
+                                    </div>
+                                    <hr class="border-secondary border-opacity-50" />
+                                    
+                                    <p class="text-span">Quản lý</p>
+                                    <a href="https://chuctop1.com/account/profile" class="dropdown-item">
+                                        <span>
+                                            <svg class="pc-icon text-muted me-2">
+                                                <use xlink:href="#custom-user"></use>
+                                            </svg>
+                                            <span>Thông tin tài khoản</span>
+                                        </span>
+                                    </a>
+                                    <a href="https://chuctop1.com/account/recharge" class="dropdown-item">
+                                        <span>
+                                            <svg class="pc-icon text-muted me-2">
+                                                <use xlink:href="#custom-status-up"></use>
+                                            </svg>
+                                            <span>Nạp tiền tài khoản</span>
+                                        </span>
+                                    </a>
+                                    <a href="https://chuctop1.com/account/transactions" class="dropdown-item">
+                                        <span>
+                                            <svg class="pc-icon text-muted me-2">
+                                                <use xlink:href="#custom-box-1"></use>
+                                            </svg>
+                                            <span>Lịch sử giao dịch</span>
+                                        </span>
+                                    </a>
+                                    <hr class="border-secondary border-opacity-50" />
+                                    <div class="d-grid mb-3">
+                                        <a href="https://chuctop1.com/auth/logout" class="btn btn-primary">
+                                            <svg class="pc-icon me-2">
+                                                <use xlink:href="#custom-logout-1-outline"></use>
+                                            </svg>Đăng xuất
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </header>
+    <div class="offcanvas pc-announcement-offcanvas offcanvas-end" tabindex="-1" id="announcement"
+        aria-labelledby="announcementLabel">
+        <div class="offcanvas-header">
+            <h5 class="offcanvas-title" id="announcementLabel">What's new announcement?</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+        </div>
+        <div class="offcanvas-body">
+            <p class="text-span">Today</p>
+            <div class="card mb-3">
+                <div class="card-body">
+                    <div class="align-items-center d-flex flex-wrap gap-2 mb-3">
+                        <div class="badge bg-light-success f-12">Big News</div>
+                        <p class="mb-0 text-muted">2 min ago</p>
+                        <span class="badge dot bg-warning"></span>
+                    </div>
+                    <h5 class="mb-3">Able Pro is Redesigned</h5>
+                    <p class="text-muted">Able Pro is completely renowed with high aesthetics User Interface.</p>
+                    <img src="/assets/images/layout/img-announcement-1.png" alt="img" class="img-fluid mb-3" />
+                    <div class="row">
+                        <div class="col-12">
+                            <div class="d-grid"><a class="btn btn-outline-secondary"
+                                    href="https://1.envato.market/zNkqj6" target="_blank">Check Now</a></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="card mb-3">
+                <div class="card-body">
+                    <div class="align-items-center d-flex flex-wrap gap-2 mb-3">
+                        <div class="badge bg-light-warning f-12">Offer</div>
+                        <p class="mb-0 text-muted">2 hour ago</p>
+                        <span class="badge dot bg-warning"></span>
+                    </div>
+                    <h5 class="mb-3">Able Pro is in best offer price</h5>
+                    <p class="text-muted">Download Able Pro exclusive on themeforest with best price. </p>
+                    <a href="https://1.envato.market/zNkqj6" target="_blank"><img
+                            src="/assets/images/layout/img-announcement-2.png" alt="img"
+                            class="img-fluid" /></a>
+                </div>
+            </div>
+
+            <p class="text-span mt-4">Yesterday</p>
+            <div class="card mb-3">
+                <div class="card-body">
+                    <div class="align-items-center d-flex flex-wrap gap-2 mb-3">
+                        <div class="badge bg-light-primary f-12">Blog</div>
+                        <p class="mb-0 text-muted">12 hour ago</p>
+                        <span class="badge dot bg-warning"></span>
+                    </div>
+                    <h5 class="mb-3">Featured Dashboard Template</h5>
+                    <p class="text-muted">Do you know Able Pro is one of the featured dashboard template selected by
+                        Themeforest team.?</p>
+                    <img src="/assets/images/layout/img-announcement-3.png" alt="img" class="img-fluid" />
+                </div>
+            </div>
+            <div class="card mb-3">
+                <div class="card-body">
+                    <div class="align-items-center d-flex flex-wrap gap-2 mb-3">
+                        <div class="badge bg-light-primary f-12">Announcement</div>
+                        <p class="mb-0 text-muted">12 hour ago</p>
+                        <span class="badge dot bg-warning"></span>
+                    </div>
+                    <h5 class="mb-3">Buy Once - Get Free Updated lifetime</h5>
+                    <p class="text-muted">Get the lifetime free updates once you purchase the Able Pro.</p>
+                    <img src="/assets/images/layout/img-announcement-4.png" alt="img" class="img-fluid" />
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- [ Header ] end -->
+
+
+
+    <!-- [ Main Content ] start -->
+    <div class="pc-container">
+        <div class="pc-content">
+            <!-- [ breadcrumb ] start -->
+            <div class="page-header mb-0">
+                <div class="page-block">
+                    <div class="row align-items-center">
+                        <div class="col-md-12">
+                            <ul class="breadcrumb">
+                                <li class="breadcrumb-item fw-bold"><a href="https://chuctop1.com/home">Chuctop1.com</a></li>
+                                <li class="breadcrumb-item"><a href="javascript: void(0)">Tăng Theo Dõi | Dịch Vụ Tiktok</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- [ breadcrumb ] end -->
+            <!-- [ Main Content ] start -->
+             
+    <div class="row">
+        <div class="col-md-12 col-lg-8">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title d-flex align-items-center gap-2 mb-5">
+                        <svg class="pc-icon text-primary">
+                            <use xlink:href="#custom-bag"></use>
+                        </svg>
+                        <span class="text-primary">Tạo đơn hàng mới</span>
+                    </h5>
+
+                    <form action="https://chuctop1.com/api/v1/start/create/order" method="POST" lamtilo-request="order">
+                        <input type="hidden" name="provider_package" value="sub_tiktok">
+                        <div class="form-group mb-3">
+                            <label for="object_id" class="form-label"><strong>Link Hoặc UID:</strong></label>
+                            <input type="text" class="form-control" id="object_id" name="object_id"
+                                placeholder="Nhập link hoặc ID tuỳ các máy chủ">
+                        </div>
+                        <div class="form-group mb-3">
+                            <label for="" class="form-label"><strong>Máy chủ:</strong></label>
+                                                            <div class="form-check mb-2 d-flex align-items-center gap-2">
+                                    <input type="radio"
+                                        class="form-check-input input-light-primary"
+                                        name="provider_server" value="sv-3"
+                                        id="provider-server-3" data-details="- Tài nguyên Việt Nam&lt;br&gt;
+- tụt 0-2%, nhiều hơn nếu Tiktok update&lt;br&gt;
+- hỗ trợ username và Full Link&lt;br&gt;"
+                                        data-min="50" data-max="5000"
+                                        data-quantity="on"
+                                        data-reaction="off"
+                                        data-comment="off"
+                                        data-getuid="off"
+                                        data-minute="off"
+                                        data-reaction_type="all"
+                                        data-comment_type=""
+                                        data-minute_type=""
+                                        data-posts="off"
+                                        data-posts_type=""
+                                        data-time="off"
+                                        data-time_type=""
+                                        data-price="27.025" onclick="checkPrice()">
+                                    <label class="form-check-label" for="provider-server-3">
+                                        [820]
+                                        <span class="badge bg-warning">Sv3</span>
+                                        <span>Theo Dõi Nick Việt Người Dùng Thật (Chậm)</span>
+                                        <span
+                                            class="badge bg-primary">27.025đ</span>
+                                                                                    <span class="badge bg-success">Hoạt động</span>
+                                        
+                                        
+                                    </label>
+                                </div>
+                                                            <div class="form-check mb-2 d-flex align-items-center gap-2">
+                                    <input type="radio"
+                                        class="form-check-input input-light-primary"
+                                        name="provider_server" value="sv-4"
+                                        id="provider-server-4" data-details="- Thời gian bắt đầu: Lên Ngay&lt;br&gt;
+- Tốc độ : Nhanh &lt;br&gt;
+- Không bảo hành&lt;br&gt;
+- Liên kết: https://tiktok.com/@username&lt;br&gt;
+#Đợi đơn hàng cũ hoàn thành mới được đặt đơn hàng mới không đặt đơn hàng thứ hai trên cùng một liên kết trước khi đơn hàng của bạn chưa được hoàn thành trong hệ thống!&lt;br&gt;"
+                                        data-min="100" data-max="10000000"
+                                        data-quantity="on"
+                                        data-reaction="off"
+                                        data-comment="off"
+                                        data-getuid="off"
+                                        data-minute="off"
+                                        data-reaction_type="all"
+                                        data-comment_type=""
+                                        data-minute_type=""
+                                        data-posts="off"
+                                        data-posts_type=""
+                                        data-time="off"
+                                        data-time_type=""
+                                        data-price="27.6" onclick="checkPrice()">
+                                    <label class="form-check-label" for="provider-server-4">
+                                        [821]
+                                        <span class="badge bg-warning">Sv4</span>
+                                        <span>Theo Dõi Tiktok Ngoại Giá Rẻ (Siêu Nhanh- Nên Dùng)</span>
+                                        <span
+                                            class="badge bg-primary">27.6đ</span>
+                                                                                    <span class="badge bg-success">Hoạt động</span>
+                                        
+                                        
+                                    </label>
+                                </div>
+                                                            <div class="form-check mb-2 d-flex align-items-center gap-2">
+                                    <input type="radio"
+                                        class="form-check-input input-light-primary"
+                                        name="provider_server" value="sv-6"
+                                        id="provider-server-6" data-details="- Bắt đầu: Chưa xác định&lt;br&gt;
+- Tốc độ: 50k/ngày ⚡&lt;br&gt; 
+ - Liên kết: https://tiktok.com/@username &lt;br&gt;
+# Đơn cũ hoàn thành mới đặt đơn mới không đặt đơn hàng thứ hai trên cùng một liên kết trước khi đơn hàng của bạn chưa được hoàn tất trong hệ thống&lt;br&gt;"
+                                        data-min="50" data-max="100000"
+                                        data-quantity="on"
+                                        data-reaction="off"
+                                        data-comment="off"
+                                        data-getuid="off"
+                                        data-minute="off"
+                                        data-reaction_type="all"
+                                        data-comment_type=""
+                                        data-minute_type=""
+                                        data-posts="off"
+                                        data-posts_type=""
+                                        data-time="off"
+                                        data-time_type=""
+                                        data-price="7.88624" onclick="checkPrice()">
+                                    <label class="form-check-label" for="provider-server-6">
+                                        [882]
+                                        <span class="badge bg-warning">Sv6</span>
+                                        <span>Theo Dõi Tiktok Ngoại Giá Rẻ ( Đang Nhanh )</span>
+                                        <span
+                                            class="badge bg-primary">7.88624đ</span>
+                                                                                    <span class="badge bg-success">Hoạt động</span>
+                                        
+                                        
+                                    </label>
+                                </div>
+                                                            <div class="form-check mb-2 d-flex align-items-center gap-2">
+                                    <input type="radio"
+                                        class="form-check-input input-light-primary"
+                                        name="provider_server" value="sv-7"
+                                        id="provider-server-7" data-details="🌐 Địa điểm: Toàn cầu&lt;br&gt;
+ 🔗 Định dạng liên kết: Tên người dùng hoặc https://www.tiktok.com/@username &lt;br&gt;
+⚡ Tốc độ: 30k/ngày &lt;br&gt;
+💧 Giảm: 0-2%, hoặc hơn trong tương lai không lường trước được. &lt;br&gt;
+♻️ Không bảo hành
+⚠️𝗪𝗔𝗥𝗡𝗜𝗡𝗚: Trong khi đơn hàng đang chạy, lượng người theo dõi có thể giảm do TikTok xóa dữ liệu bot. Vì vậy, chúng tôi sẽ không hỗ trợ bảo hànhnếu thiếu hụt về số lượng&lt;br&gt;
+. ⚠️𝗪𝗔𝗥𝗡𝗜𝗡𝗚: Chỉ chấp nhận các liên kết công khai, vui lòng không gửi liên kết riêng tư &lt;br&gt;
+⚠️𝗪𝗔𝗥𝗡𝗜𝗡𝗚: Trong thời gian đơn hàng đang chạy vui lòng không chuyển sang link riêng để tránh sai sót.&lt;br&gt;
+⚠️𝗪𝗔𝗥𝗡𝗜𝗡𝗚: Tốc độ mô tả trên dịch vụ có thể không chính xác vì tốc độ sẽ thay đổi theo thời gian, vui lòng mua một ít để kiểm tra trước khi mua số lượng lớn.&lt;br&gt;"
+                                        data-min="50" data-max="3000000"
+                                        data-quantity="on"
+                                        data-reaction="off"
+                                        data-comment="off"
+                                        data-getuid="off"
+                                        data-minute="off"
+                                        data-reaction_type="all"
+                                        data-comment_type=""
+                                        data-minute_type=""
+                                        data-posts="off"
+                                        data-posts_type=""
+                                        data-time="off"
+                                        data-time_type=""
+                                        data-price="16.675" onclick="checkPrice()">
+                                    <label class="form-check-label" for="provider-server-7">
+                                        [884]
+                                        <span class="badge bg-warning">Sv7</span>
+                                        <span>Theo Dõi Tiktok Ngoại Giá Rẻ</span>
+                                        <span
+                                            class="badge bg-primary">16.675đ</span>
+                                                                                    <span class="badge bg-success">Hoạt động</span>
+                                        
+                                        
+                                    </label>
+                                </div>
+                                                            <div class="form-check mb-2 d-flex align-items-center gap-2">
+                                    <input type="radio"
+                                        class="form-check-input input-light-primary"
+                                        name="provider_server" value="sv-8"
+                                        id="provider-server-8" data-details="- Bắt đầu sau : Chưa Xác Định&lt;br&gt;
+- ⚡Tốc độ : Ổn &lt;br&gt;
+- ♻️Hoàn tiền : không&lt;br&gt;
+- Định dạng : https://www.tiktok.com/@username&lt;br&gt;"
+                                        data-min="100" data-max="1000000"
+                                        data-quantity="on"
+                                        data-reaction="off"
+                                        data-comment="off"
+                                        data-getuid="off"
+                                        data-minute="off"
+                                        data-reaction_type="all"
+                                        data-comment_type=""
+                                        data-minute_type=""
+                                        data-posts="off"
+                                        data-posts_type=""
+                                        data-time="off"
+                                        data-time_type=""
+                                        data-price="10.925" onclick="checkPrice()">
+                                    <label class="form-check-label" for="provider-server-8">
+                                        [902]
+                                        <span class="badge bg-warning">Sv8</span>
+                                        <span>TikTok Followers Ngoại Siêu Rẻ ( Sale )</span>
+                                        <span
+                                            class="badge bg-primary">10.925đ</span>
+                                                                                    <span class="badge bg-success">Hoạt động</span>
+                                        
+                                        
+                                    </label>
+                                </div>
+                                                            <div class="form-check mb-2 d-flex align-items-center gap-2">
+                                    <input type="radio"
+                                        class="form-check-input input-light-primary"
+                                        name="provider_server" value="sv-10"
+                                        id="provider-server-10" data-details="- Tài Nguyên  Max 100k Sub &lt;br&gt;
+- Tốc độ ổn&lt;br&gt;"
+                                        data-min="100" data-max="100000"
+                                        data-quantity="on"
+                                        data-reaction="off"
+                                        data-comment="off"
+                                        data-getuid="off"
+                                        data-minute="off"
+                                        data-reaction_type="all"
+                                        data-comment_type=""
+                                        data-minute_type=""
+                                        data-posts="off"
+                                        data-posts_type=""
+                                        data-time="off"
+                                        data-time_type=""
+                                        data-price="9.46358" onclick="checkPrice()">
+                                    <label class="form-check-label" for="provider-server-10">
+                                        [946]
+                                        <span class="badge bg-warning">Sv10</span>
+                                        <span>Sub Ngoại</span>
+                                        <span
+                                            class="badge bg-primary">9.46358đ</span>
+                                                                                    <span class="badge bg-success">Hoạt động</span>
+                                        
+                                        
+                                    </label>
+                                </div>
+                                                        <div id="informationServer"></div>
+                        </div>
+
+                        <div class="form-group mb-3 reactions" id="reactions_type" style="display: none;">
+                            <label><strong>Cảm xúc:</strong></label>
+                            <div class="mt-3">
+                                <div class=" form-check form-check-inline">
+                                    <label class="form-check-label " for="reaction0">
+                                        <input class="form-check-input checkbox d-none" type="radio" data-prices="101"
+                                            id="reaction0" name="reaction" value="like" checked="">
+                                        <img src="https://chuctop1.com/assets/pack-lamtilo/reaction/like.png" alt="image"
+                                            class="d-block ml-2 rounded-circle" width="35">
+                                    </label>
+                                </div>
+                                <div class="form-check form-check-inline">
+                                    <label class="form-check-label " for="reaction1">
+                                        <input class="form-check-input checkbox d-none" type="radio" data-prices="100"
+                                            id="reaction1" name="reaction" value="love">
+                                        <img src="https://chuctop1.com/assets/pack-lamtilo/reaction/love.png" alt="image"
+                                            class="d-block ml-2 rounded-circle" width="35">
+                                    </label>
+                                </div>
+                                <div class="form-check form-check-inline">
+                                    <label class="form-check-label " for="reaction2">
+                                        <input class="form-check-input checkbox d-none" type="radio" data-prices="100"
+                                            id="reaction2" name="reaction" value="care">
+                                        <img src="https://chuctop1.com/assets/pack-lamtilo/reaction/care.png" alt="image"
+                                            class="d-block ml-2 rounded-circle" width="35">
+                                    </label>
+                                </div>
+                                <div class="form-check form-check-inline">
+                                    <label class="form-check-label " for="reaction3">
+                                        <input class="form-check-input checkbox d-none" type="radio" data-prices="100"
+                                            id="reaction3" name="reaction" value="haha">
+                                        <img src="https://chuctop1.com/assets/pack-lamtilo/reaction/haha.png" alt="image"
+                                            class="d-block ml-2 rounded-circle" width="35">
+                                    </label>
+                                </div>
+                                <div class="form-check form-check-inline">
+                                    <label class="form-check-label " for="reaction4">
+                                        <input class="form-check-input checkbox d-none" type="radio" data-prices="100"
+                                            id="reaction4" name="reaction" value="wow">
+                                        <img src="https://chuctop1.com/assets/pack-lamtilo/reaction/wow.png" alt="image"
+                                            class="d-block ml-2 rounded-circle" width="35">
+                                    </label>
+                                </div>
+                                <div class="form-check form-check-inline">
+                                    <label class="form-check-label " for="reaction6">
+                                        <input class="form-check-input checkbox d-none" type="radio" data-prices="100"
+                                            id="reaction6" name="reaction" value="sad">
+                                        <img src="https://chuctop1.com/assets/pack-lamtilo/reaction/sad.png" alt="image"
+                                            class="d-block ml-2 rounded-circle" width="35">
+                                    </label>
+                                </div>
+                                <div class="form-check form-check-inline">
+                                    <label class="form-check-label " for="reaction7">
+                                        <input class="form-check-input checkbox d-none" type="radio" data-prices="100"
+                                            id="reaction7" name="reaction" value="angry">
+                                        <img src="https://chuctop1.com/assets/pack-lamtilo/reaction/angry.png" alt="image"
+                                            class="d-block ml-2 rounded-circle" width="35">
+                                    </label>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="form-group mb-3 quantity" id="quantity_type">
+                            <label for="quantity" class="form-label"><strong>Số lượng: <span id="quantity_limit">(0 ~
+                                        0)</span></strong></label>
+                            <input type="number" class="form-control" id="quantity" name="quantity" value=""
+                                onkeyup="checkPrice()" placeholder="Nhập số lượng">
+                        </div>
+
+                        <div class="form-group mb-3 comments" id="comments_type" style="display: none;">
+                            <label for="comments" class="form-label">
+                                <strong>Nội dung bình luận: </strong><span id="counter_comment"
+                                    class="badge bg-success py-1">0</span>
+                                <span id="quantity_limitss">(0 ~ 0)</span>
+                                <div class="alert alert-danger text-danger mt-1 mb-0" id="">
+                                    <strong>Lưu ý:</strong> Nếu bạn nhập nhiều bình luận, hệ thống sẽ chọn ngẫu nhiên 1 bình
+                                    luận trong số đó để tăng<br>Các ngôn từ bị cấm: dm|đm|đ m|d m|địt mẹ|dit me|lol|lừađảo|conchó|trảtiền|mấtdạy|lừa đảo| con chó|trả tiền|mất dạy|lua dao|con cho|tra tien|mat day
+                                </div>
+                            </label>
+                            <textarea class="form-control" name="comments" id="comments" rows="3" placeholder="Nhập nội dung bình luận"
+                                onkeyup="checkPrice()"></textarea>
+                        </div>
+
+                        <div class="form-group mb-3 minute" id="minute_type" style="display: none;">
+                            <label for="minute" class="form-label"><strong>Số phút</strong></label>
+                            <select name="minutes" class="form-select" onchange="checkPrice()">
+                                <option value="15">15 phút</option>
+                                <option value="30">30 phút</option>
+                                <option value="60">60 phút</option>
+                                <option value="90">90 phút</option>
+                                <option value="120">120 phút</option>
+                                <option value="150">150 phút</option>
+                                <option value="180">180 phút</option>
+                                <option value="210">210 phút</option>
+                                <option value="240">240 phút</option>
+                                <option value="270">270 phút</option>
+                                <option value="300">300 phút</option>
+                            </select>
+                        </div>
+
+                        <div class="row">
+                            <div class="col-md-12" id="time_type" style="display: none;">
+                                <div class="form-group mb-3">
+                                    <label for="duration" class="form-label">Thời gian:</label>
+                                    <select name="duration" id="duration" class="form-select" onchange="checkPrice()">
+                                        
+                                        <option value="30">30 Ngày</option>
+                                        <option value="60">60 Ngày</option>
+                                        <option value="90">90 Ngày</option>
+                                        <option value="120">120 Ngày</option>
+                                        <option value="150">150 Ngày</option>
+                                        <option value="180">180 Ngày</option>
+                                    </select>
+                                </div>
+                            </div>
+                            <div class="col-md-12">
+                                <div class="form-group mb-3" id="posts_type" style="display: none;">
+                                    <label for="posts" class="form-label">Số bài viết:</label>
+                                 
+                                        <select name="posts" id="posts" class="form-select">
+                                           
+                                 <option value="5">5 Bài viết</option>
+                                            <option value="10">7 Bài viết</option>
+                                            <option value="10">10 Bài viết</option>
+                                            <option value="20">20 Bài viết</option>
+                                            <option value="30">30 Bài viết</option>
+                                            <option value="40">40 Bài viết</option>
+                                            <option value="50">50 Bài viết</option>
+                                            <option value="60">60 Bài viết</option>  
+                                        </select>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="form-group mb-3">
+                            <label for="note" class="form-label"><strong>Ghi chú:</strong></label>
+                            <textarea class="form-control" name="note" id="note" rows="3" placeholder="Nhập ghi chú nếu cần"></textarea>
+                        </div>
+                        <div class="form-group mb-3">
+                            <div class="alert bg-primary text-center text-white">
+                                <h3 class="alert-heading">Tổng thanh toán: <span class="text-danger"
+                                        id="total_pay">0</span>
+                                    VNĐ</h3>
+                                <p class="fs-4 mb-0" id="text-order">Bạn sẽ tăng <span class="text-danger"
+                                        id="total_quantity">0</span>
+                                    số
+                                    lượng với giá <span class="text-danger" id="current_price">0</span> đ</p>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <button type="submit"
+                                class="btn btn-primary w-100 d-flex align-items-center justify-content-center gap-2">
+                                <i class="fas fa-shopping-cart"></i>
+                                <span>Tạo đơn hàng</span>
+                            </button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-12 col-lg-4">
+            <div class="alert alert-danger bg-danger text-white mb-3">
+                <h5 class="alert-heading">Lưu ý!</h5>
+                    Đơn hàng không làm đúng yêu cầu của thông tin máy chủ,không đúng định dạng.
+
+Cố tình đè đơn với máy chủ không cho phép.
+
+Thay đổi cấu trúc link trong quá trình đơn đang hoạt động.
+
+Tài khoản die hoặc không bật full công khai.
+            </div>
+            <div class="alert alert-primary bg-primary text-white">
+                <h5 class="alert-heading">Hướng dẫn</h5>
+                Nghiêm cấm buff các đơn có nội dung vi phạm pháp luật, chính trị, đồ trụy... Nếu cố tình buff bạn sẽ bị trừ hết tiền và ban khỏi hệ thống vĩnh viễn, và phải chịu hoàn toàn trách nhiệm trước pháp luật.
+
+Nếu đơn đang chạy trên hệ thống mà bạn vẫn mua ở các hệ thống bên khác, nếu có tình trạng hụt, thiếu số lượng giữa 2 bên thì sẽ không được xử lí.
+
+Vui lòng đọc kĩ thông tin máy chủ trước kĩ lên đơn.
+
+Nếu đơn hàng có vấn đề, vui lòng liên hệ admin để được hỗ trợ nhanh nhất
+            </div>
+        </div>
+        <div class="col-md-12">
+            <div class="card">
+                <div class="card-header">
+                    <h5 class="card-title">Lịch sử tạo đơn</h5>
+                </div>
+                <div class="card-body">
+                    <form action="">
+
+                        <div class="row">
+                        <div class="col-md-1">
+                        <form action="">
+                            <div class="row">
+                                
+                                    <div class="form-group">
+                                    <label for="start_date" class="form-label">Hiển thị</label>
+                                        <select name="soluong" id="soluong" class="form-select" onchange="this.form.submit()">
+                                      
+                                           
+                                            <option value="10" >10</option>
+                                            <option value="25" >25</option>
+                                            <option value="50" >50</option>
+                                            <option value="100" >100</option>
+                                        </select>
+                                    </div>
+                                </div>
+                         
+                        </form>
+   </div>
+                            <div class="col-md-6 col-lg-3">
+                                <div class="form-group">
+                                    <label for="start_date" class="form-label">Từ ngày</label>
+                                    <input type="date" class="form-control" id="start_date" name="start_date"
+                                        value="">
+                                </div>
+                            </div>
+                            <div class="col-md-6 col-lg-3">
+                                <div class="form-group">
+                                    <label for="end_date" class="form-label">Đến ngày</label>
+                                    <input type="date" class="form-control" id="end_date" name="end_date"
+                                        value="">
+                                </div>
+                            </div>
+                            <div class="col-md-6 col-lg-3">
+                                <div class="form-group">
+                                    <label for="status" class="form-label">Trạng thái</label>
+                                    <select name="status" id="status" class="form-select">
+                                        <option value="">Tất cả</option>
+                                        <option value="Processing"
+                                            >Đang xử lý</option>
+                                        <option value="Completed"
+                                            >Đã hoàn thành
+                                        </option>
+                                        <option value="Cancelled"
+                                            >Đã hủy</option>
+                                        <option value="Refunded" >
+                                            Đã hoàn tiền</option>
+                                        <option value="Failed" >Thất
+                                            bại</option>
+                                        <option value="Pending" >
+                                            Chờ xử lý</option>
+                                    </select>
+                                </div>
+                            </div>
+                            <div class="col-md-6 col-lg-2">
+                                <div class="form-group">
+                                    <label for="order_code" class="form-label">Mã đơn hàng</label>
+                                    <div class="input-group">
+                                        <input type="text" class="form-control" id="order_code" name="order_code"
+                                            value="" placeholder="Nhập mã đơn hàng">
+                                        <button type="submit" class="btn btn-primary d-flex align-items-center">
+                                            <i class="fas fa-search"></i>
+                                        </button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </form>
+                    <div class="table-responsive">
+                                <table class="table table-striped table-bordered table-hover fw-bold">
+                                    <thead>
+                                        <tr >
+                                            <th>STT</th>
+                                            <th>Thao tác</th>
+
+                                            <th>Mã gói</th>
+                                            <th>Mã đơn hàng</th>
+                                            <th>LINK/UID</th>
+                                            <th>Máy chủ</th>
+                                                                                        <th>Số lượng</th>
+                                                                                                                                                                                                                                                                        
+                                                                                        <th>Ban đầu</th>
+                                            <th>Đã tăng</th>
+                                                                                        <th>Trạng thái</th>
+                                            <th>Giá tiền</th>
+                                            <th>Thanh toán</th>
+                                            <th>Cập nhật</th>
+                                            <th>Thời gian tạo</th>
+                                            <th>Ghi chú</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody class="fw-bold">
+                                                                                                                        <tr>
+                                            <td>10213</td>
+                                            <td class="">
+                                                <div class="d-flex align-items-center gap-1">
+                                                                                                        
+
+
+                                                                                                            
+                                                        
+                                                        
+
+
+
+
+                                                        
+                                                        <a href="javascript:;" class="btn btn-sm btn-primary"
+                                                            data-bs-toggle="tooltip" data-bs-placement="top"
+                                                            title="Cập nhật"
+                                                            onclick="updateOrder('LT_17253257159133')">
+                                                            <i class="fas fa-cube"></i>
+                                                        </a>
+                                                        
+                                                                                                        </div>
+                                            </td>
+
+                                            <td>sub_tiktok</td>
+                                            <td> <a href="javascript:;"
+                                                    onclick="coppy('LT_17253257159133')" class="text-success">LT_17253257159133 </a></td>
+                                            <td>
+                                                <a href="javascript:;"
+                                                    onclick="coppy('https://www.tiktok.com/@bo.thyy439')">https://www.tiktok.com/@bo.thyy439</a>
+                                            </td>
+                                            <td><span class="badge bg-secondary">
+                                                    Sv6
+                                                </span>
+
+
+                                            </td>
+                                                                                        <td  class="text-danger">1,000</td>
+                                                                                                                                                                                                                                                                        
+                                                                                        <td class="text-primary">0</td>
+                                            <td class="text-success">0</td>
+                                                                                        <td>
+                                                <span class="badge bg-info">Đang xử lý</span>
+                                            </td>
+                                            <td><span class="badge bg-danger">5.916 đ</span></td>
+                                            <td>
+                                                <span class="badge bg-warning">
+                                                    5,916 đ
+                                                </span>
+                                            </td>
+                                            <td class="text-success">1 ngày trước</td>
+                                        <td>2024-09-03 08:08:35</td>
+
+                                            <td>
+                                                <textarea class="form-control note" rows="3"
+                                                    readonly></textarea>
+                                            </td>
+                                        </tr>
+                                                                                <tr>
+                                            <td>9999</td>
+                                            <td class="">
+                                                <div class="d-flex align-items-center gap-1">
+                                                                                                        
+
+
+                                                                                                            
+                                                        
+                                                        
+
+
+
+
+                                                        
+                                                        <a href="javascript:;" class="btn btn-sm btn-primary"
+                                                            data-bs-toggle="tooltip" data-bs-placement="top"
+                                                            title="Cập nhật"
+                                                            onclick="updateOrder('LT_17252968526472')">
+                                                            <i class="fas fa-cube"></i>
+                                                        </a>
+                                                        
+                                                                                                        </div>
+                                            </td>
+
+                                            <td>sub_tiktok</td>
+                                            <td> <a href="javascript:;"
+                                                    onclick="coppy('LT_17252968526472')" class="text-success">LT_17252968526472 </a></td>
+                                            <td>
+                                                <a href="javascript:;"
+                                                    onclick="coppy('https://www.tiktok.com/@wuynh_iieud')">https://www.tiktok.com/@wuynh_iieud</a>
+                                            </td>
+                                            <td><span class="badge bg-secondary">
+                                                    Sv10
+                                                </span>
+
+
+                                            </td>
+                                                                                        <td  class="text-danger">1,000</td>
+                                                                                                                                                                                                                                                                        
+                                                                                        <td class="text-primary">638</td>
+                                            <td class="text-success">677</td>
+                                                                                        <td>
+                                                <span class="badge bg-primary">Đang chạy</span>
+                                            </td>
+                                            <td><span class="badge bg-danger">1.5 đ</span></td>
+                                            <td>
+                                                <span class="badge bg-warning">
+                                                    1,500 đ
+                                                </span>
+                                            </td>
+                                            <td class="text-success">1 ngày trước</td>
+                                        <td>2024-09-03 00:07:32</td>
+
+                                            <td>
+                                                <textarea class="form-control note" rows="3"
+                                                    readonly></textarea>
+                                            </td>
+                                        </tr>
+                                                                                <tr>
+                                            <td>9957</td>
+                                            <td class="">
+                                                <div class="d-flex align-items-center gap-1">
+                                                                                                        
+
+
+                                                                                                            
+                                                        
+                                                        
+
+
+
+
+                                                        
+                                                        <a href="javascript:;" class="btn btn-sm btn-primary"
+                                                            data-bs-toggle="tooltip" data-bs-placement="top"
+                                                            title="Cập nhật"
+                                                            onclick="updateOrder('LT_17252940949627')">
+                                                            <i class="fas fa-cube"></i>
+                                                        </a>
+                                                        
+                                                                                                        </div>
+                                            </td>
+
+                                            <td>sub_tiktok</td>
+                                            <td> <a href="javascript:;"
+                                                    onclick="coppy('LT_17252940949627')" class="text-success">LT_17252940949627 </a></td>
+                                            <td>
+                                                <a href="javascript:;"
+                                                    onclick="coppy('https://www.tiktok.com/@wuynh_iieud?_t=8pOFccDoZvj&amp;_r=1')">https://www.tiktok.com/@wuynh_iieud?_t=8pOFccDoZvj&amp;_r=1</a>
+                                            </td>
+                                            <td><span class="badge bg-secondary">
+                                                    Sv10
+                                                </span>
+
+
+                                            </td>
+                                                                                        <td  class="text-danger">1,000</td>
+                                                                                                                                                                                                                                                                        
+                                                                                        <td class="text-primary">504</td>
+                                            <td class="text-success">564</td>
+                                                                                        <td>
+                                                <span class="badge bg-primary">Đang chạy</span>
+                                            </td>
+                                            <td><span class="badge bg-danger">1.5 đ</span></td>
+                                            <td>
+                                                <span class="badge bg-warning">
+                                                    1,500 đ
+                                                </span>
+                                            </td>
+                                            <td class="text-success">1 ngày trước</td>
+                                        <td>2024-09-02 23:21:34</td>
+
+                                            <td>
+                                                <textarea class="form-control note" rows="3"
+                                                    readonly></textarea>
+                                            </td>
+                                        </tr>
+                                                                                <tr>
+                                            <td>9945</td>
+                                            <td class="">
+                                                <div class="d-flex align-items-center gap-1">
+                                                                                                        
+
+
+                                                                                                            
+                                                        
+                                                        
+
+
+
+
+                                                        
+                                                        <a href="javascript:;" class="btn btn-sm btn-primary"
+                                                            data-bs-toggle="tooltip" data-bs-placement="top"
+                                                            title="Cập nhật"
+                                                            onclick="updateOrder('LT_17252935634292')">
+                                                            <i class="fas fa-cube"></i>
+                                                        </a>
+                                                        
+                                                                                                        </div>
+                                            </td>
+
+                                            <td>sub_tiktok</td>
+                                            <td> <a href="javascript:;"
+                                                    onclick="coppy('LT_17252935634292')" class="text-success">LT_17252935634292 </a></td>
+                                            <td>
+                                                <a href="javascript:;"
+                                                    onclick="coppy('https://www.tiktok.com/@wuynh_iieud?_t=8pOExyQKTtE&amp;_r=1')">https://www.tiktok.com/@wuynh_iieud?_t=8pOExyQKTtE&amp;_r=1</a>
+                                            </td>
+                                            <td><span class="badge bg-secondary">
+                                                    Sv6
+                                                </span>
+
+
+                                            </td>
+                                                                                        <td  class="text-danger">1,000</td>
+                                                                                                                                                                                                                                                                        
+                                                                                        <td class="text-primary">487</td>
+                                            <td class="text-success">758</td>
+                                                                                        <td>
+                                                <span class="badge bg-primary">Đang chạy</span>
+                                            </td>
+                                            <td><span class="badge bg-danger">1.125 đ</span></td>
+                                            <td>
+                                                <span class="badge bg-warning">
+                                                    1,125 đ
+                                                </span>
+                                            </td>
+                                            <td class="text-success">1 ngày trước</td>
+                                        <td>2024-09-02 23:12:43</td>
+
+                                            <td>
+                                                <textarea class="form-control note" rows="3"
+                                                    readonly></textarea>
+                                            </td>
+                                        </tr>
+                                                                                <tr>
+                                            <td>3864</td>
+                                            <td class="">
+                                                <div class="d-flex align-items-center gap-1">
+                                                                                                        
+
+
+                                                                                                            
+                                                        
+                                                        
+
+
+
+
+                                                        
+                                                        <a href="javascript:;" class="btn btn-sm btn-primary"
+                                                            data-bs-toggle="tooltip" data-bs-placement="top"
+                                                            title="Cập nhật"
+                                                            onclick="updateOrder('LT_17234578534254')">
+                                                            <i class="fas fa-cube"></i>
+                                                        </a>
+                                                        
+                                                                                                        </div>
+                                            </td>
+
+                                            <td>sub_tiktok</td>
+                                            <td> <a href="javascript:;"
+                                                    onclick="coppy('LT_17234578534254')" class="text-success">LT_17234578534254 </a></td>
+                                            <td>
+                                                <a href="javascript:;"
+                                                    onclick="coppy('https://www.tiktok.com/@wuynh_iieud')">https://www.tiktok.com/@wuynh_iieud</a>
+                                            </td>
+                                            <td><span class="badge bg-secondary">
+                                                    Sv4
+                                                </span>
+
+
+                                            </td>
+                                                                                        <td  class="text-danger">1,000</td>
+                                                                                                                                                                                                                                                                        
+                                                                                        <td class="text-primary">333</td>
+                                            <td class="text-success">0</td>
+                                                                                        <td>
+                                                <span class="badge bg-primary">Đang chạy</span>
+                                            </td>
+                                            <td><span class="badge bg-danger">2.75 đ</span></td>
+                                            <td>
+                                                <span class="badge bg-warning">
+                                                    2,750 đ
+                                                </span>
+                                            </td>
+                                            <td class="text-success">3 tuần trước</td>
+                                        <td>2024-08-12 17:17:33</td>
+
+                                            <td>
+                                                <textarea class="form-control note" rows="3"
+                                                    readonly></textarea>
+                                            </td>
+                                        </tr>
+                                                                                <tr>
+                                            <td>3790</td>
+                                            <td class="">
+                                                <div class="d-flex align-items-center gap-1">
+                                                    
+                                                        <a href="javascript:;" class="btn btn-sm btn-primary"
+                                                            data-bs-toggle="tooltip" data-bs-placement="top"
+                                                            title="Cập nhật"
+                                                            onclick="updateOrder('LT_17234515283491')">
+                                                            <i class="fas fa-cube"></i>
+                                                        </a>
+                                                        
+                                                                                                        </div>
+                                            </td>
+
+                                            <td>sub_tiktok</td>
+                                            <td> <a href="javascript:;"
+                                                    onclick="coppy('LT_17234515283491')" class="text-success">LT_17234515283491 </a></td>
+                                            <td>
+                                                <a href="javascript:;"
+                                                    onclick="coppy('https://www.tiktok.com/@anhthohuynh_23')">https://www.tiktok.com/@anhthohuynh_23</a>
+                                            </td>
+                                            <td><span class="badge bg-secondary">
+                                                    Sv4
+                                                </span>
+
+
+                                            </td>
+                                                                                        <td  class="text-danger">5,000</td>
+                                                                                                                                                                                                                                                                        
+                                                                                        <td class="text-primary">188</td>
+                                            <td class="text-success">5,000</td>
+                                                                                        <td>
+                                                <span class="badge bg-success">Hoàn thành</span>
+                                            </td>
+                                            <td><span class="badge bg-danger">2.75 đ</span></td>
+                                            <td>
+                                                <span class="badge bg-warning">
+                                                    13,750 đ
+                                                </span>
+                                            </td>
+                                            <td class="text-success">3 tuần trước</td>
+                                        <td>2024-08-12 15:32:08</td>
+
+                                            <td>
+                                                <textarea class="form-control note" rows="3"
+                                                    readonly></textarea>
+                                            </td>
+                                        </tr>
+                                                                                <tr>
+                                            <td>3302</td>
+                                            <td class="">
+                                                <div class="d-flex align-items-center gap-1">
+                                                    
+                                                        <a href="javascript:;" class="btn btn-sm btn-primary"
+                                                            data-bs-toggle="tooltip" data-bs-placement="top"
+                                                            title="Cập nhật"
+                                                            onclick="updateOrder('LT_17234250788526')">
+                                                            <i class="fas fa-cube"></i>
+                                                        </a>
+                                                        
+                                                                                                        </div>
+                                            </td>
+
+                                            <td>sub_tiktok</td>
+                                            <td> <a href="javascript:;"
+                                                    onclick="coppy('LT_17234250788526')" class="text-success">LT_17234250788526 </a></td>
+                                            <td>
+                                                <a href="javascript:;"
+                                                    onclick="coppy('https://www.tiktok.com/@htan.frv_06')">https://www.tiktok.com/@htan.frv_06</a>
+                                            </td>
+                                            <td><span class="badge bg-secondary">
+                                                    Sv10
+                                                </span>
+
+
+                                            </td>
+                                                                                        <td  class="text-danger">4,000</td>
+                                                                                                                                                                                                                                                                        
+                                                                                        <td class="text-primary">7,569</td>
+                                            <td class="text-success">4,000</td>
+                                                                                        <td>
+                                                <span class="badge bg-success">Hoàn thành</span>
+                                            </td>
+                                            <td><span class="badge bg-danger">1.485 đ</span></td>
+                                            <td>
+                                                <span class="badge bg-warning">
+                                                    5,940 đ
+                                                </span>
+                                            </td>
+                                            <td class="text-success">3 tuần trước</td>
+                                        <td>2024-08-12 08:11:18</td>
+
+                                            <td>
+                                                <textarea class="form-control note" rows="3"
+                                                    readonly></textarea>
+                                            </td>
+                                        </tr>
+                                                                                <tr>
+                                            <td>3235</td>
+                                            <td class="">
+                                                <div class="d-flex align-items-center gap-1">
+                                                    
+                                                        <a href="javascript:;" class="btn btn-sm btn-primary"
+                                                            data-bs-toggle="tooltip" data-bs-placement="top"
+                                                            title="Cập nhật"
+                                                            onclick="updateOrder('LT_17233968152389')">
+                                                            <i class="fas fa-cube"></i>
+                                                        </a>
+                                                        
+                                                                                                        </div>
+                                            </td>
+
+                                            <td>sub_tiktok</td>
+                                            <td> <a href="javascript:;"
+                                                    onclick="coppy('LT_17233968152389')" class="text-success">LT_17233968152389 </a></td>
+                                            <td>
+                                                <a href="javascript:;"
+                                                    onclick="coppy('https://www.tiktok.com/@htan.frv_06')">https://www.tiktok.com/@htan.frv_06</a>
+                                            </td>
+                                            <td><span class="badge bg-secondary">
+                                                    Sv7
+                                                </span>
+
+
+                                            </td>
+                                                                                        <td  class="text-danger">5,900</td>
+                                                                                                                                                                                                                                                                        
+                                                                                        <td class="text-primary">1,324</td>
+                                            <td class="text-success">5,900</td>
+                                                                                        <td>
+                                                <span class="badge bg-success">Hoàn thành</span>
+                                            </td>
+                                            <td><span class="badge bg-danger">1.68 đ</span></td>
+                                            <td>
+                                                <span class="badge bg-warning">
+                                                    9,912 đ
+                                                </span>
+                                            </td>
+                                            <td class="text-success">3 tuần trước</td>
+                                        <td>2024-08-12 00:20:15</td>
+
+                                            <td>
+                                                <textarea class="form-control note" rows="3"
+                                                    readonly></textarea>
+                                            </td>
+                                        </tr>
+                                                                                <tr>
+                                            <td>2787</td>
+                                            <td class="">
+                                                <div class="d-flex align-items-center gap-1">
+                                                    
+                                                        <a href="javascript:;" class="btn btn-sm btn-primary"
+                                                            data-bs-toggle="tooltip" data-bs-placement="top"
+                                                            title="Cập nhật"
+                                                            onclick="updateOrder('LT_17233525982851')">
+                                                            <i class="fas fa-cube"></i>
+                                                        </a>
+                                                        
+                                                                                                        </div>
+                                            </td>
+
+                                            <td>sub_tiktok</td>
+                                            <td> <a href="javascript:;"
+                                                    onclick="coppy('LT_17233525982851')" class="text-success">LT_17233525982851 </a></td>
+                                            <td>
+                                                <a href="javascript:;"
+                                                    onclick="coppy('https://www.tiktok.com/@huy_batdongsan')">https://www.tiktok.com/@huy_batdongsan</a>
+                                            </td>
+                                            <td><span class="badge bg-secondary">
+                                                    Sv4
+                                                </span>
+
+
+                                            </td>
+                                                                                        <td  class="text-danger">1,700</td>
+                                                                                                                                                                                                                                                                        
+                                                                                        <td class="text-primary">140</td>
+                                            <td class="text-success">1,700</td>
+                                                                                        <td>
+                                                <span class="badge bg-success">Hoàn thành</span>
+                                            </td>
+                                            <td><span class="badge bg-danger">2.625 đ</span></td>
+                                            <td>
+                                                <span class="badge bg-warning">
+                                                    4,463 đ
+                                                </span>
+                                            </td>
+                                            <td class="text-success">3 tuần trước</td>
+                                        <td>2024-08-11 12:03:18</td>
+
+                                            <td>
+                                                <textarea class="form-control note" rows="3"
+                                                    readonly></textarea>
+                                            </td>
+                                        </tr>
+                                                                                <tr>
+                                            <td>2713</td>
+                                            <td class="">
+                                                <div class="d-flex align-items-center gap-1">
+                                                    
+                                                        <a href="javascript:;" class="btn btn-sm btn-primary"
+                                                            data-bs-toggle="tooltip" data-bs-placement="top"
+                                                            title="Cập nhật"
+                                                            onclick="updateOrder('LT_17233459121137')">
+                                                            <i class="fas fa-cube"></i>
+                                                        </a>
+                                                        
+                                                                                                        </div>
+                                            </td>
+
+                                            <td>sub_tiktok</td>
+                                            <td> <a href="javascript:;"
+                                                    onclick="coppy('LT_17233459121137')" class="text-success">LT_17233459121137 </a></td>
+                                            <td>
+                                                <a href="javascript:;"
+                                                    onclick="coppy('https://www.tiktok.com/@huy_batdongsan?_t=8ojP70ZNBwO&amp;_r=1')">https://www.tiktok.com/@huy_batdongsan?_t=8ojP70ZNBwO&amp;_r=1</a>
+                                            </td>
+                                            <td><span class="badge bg-secondary">
+                                                    Sv7
+                                                </span>
+
+
+                                            </td>
+                                                                                        <td  class="text-danger">3,000</td>
+                                                                                                                                                                                                                                                                        
+                                                                                        <td class="text-primary">1,850</td>
+                                            <td class="text-success">3,000</td>
+                                                                                        <td>
+                                                <span class="badge bg-success">Hoàn thành</span>
+                                            </td>
+                                            <td><span class="badge bg-danger">1.84 đ</span></td>
+                                            <td>
+                                                <span class="badge bg-warning">
+                                                    5,520 đ
+                                                </span>
+                                            </td>
+                                            <td class="text-success">3 tuần trước</td>
+                                        <td>2024-08-11 10:11:52</td>
+
+                                            <td>
+                                                <textarea class="form-control note" rows="3"
+                                                    readonly></textarea>
+                                            </td>
+                                        </tr>
+                                                                                                                    </tbody>
+                                </table>
+                                <div class="d-flex justify-content-center align-items-center">
+                                    
+                                </div>
+                            </div>
+                </div>
+            </div>
+        </div>
+    </div>
+            <!-- [ Main Content ] end -->
+        </div>
+    </div>
+    <!-- [ Main Content ] end -->
+    <footer class="pc-footer">
+    <div class="footer-wrapper container-fluid">
+            <div class="d-flex justify-content-center align-items-center">
+                <p class="m-0 text-muted">chuctop1.com <span class="text-danger">&#9829;</span> Được phát triển bởi <a
+                        href="https://www.facebook.com/chucdz999j" target="_blank">Lê Đôn Chức</a></p>
+            </div>
+    </div>
+</footer>
+
+
+    <!-- [Page Specific JS] start -->
+    
+    <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="/assets/js/plugins/jquery-3.7.1.min.js"></script>
+    <!-- Required Js -->
+    <script src="/assets/js/plugins/popper.min.js"></script>
+    <script src="/assets/js/plugins/simplebar.min.js"></script>
+    <script src="/assets/js/plugins/bootstrap.min.js"></script>
+    <script src="/assets/js/fonts/custom-font.js"></script>
+    <script src="/assets/js/pcoded.js"></script>
+    <script src="/assets/js/plugins/feather.min.js"></script>
+    <script src="/assets/js/plugins/toastr.min.js"></script>
+    <script src="/assets/js/plugins/sweetalert2.all.min.js"></script>
+     
+    <script src="/assets/js/ap.js?lamtilo-time=1725467956"></script>
+        <script src="/assets/js/lamtilo.js?lamtilo-time=1725467956"></script>
+        1000000
+
+
+
+            <script src="https://chuctop1.com/assets/pack-lamtilo/js/service1.js?time=1725467956"></script>
+</body>
+<!-- [Body] end -->
+
+</html>
+
